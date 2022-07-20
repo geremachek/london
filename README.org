@@ -1,0 +1,6 @@
+#+TITLE: London 2022 Trip
+#+AUTHOR: geremachek
+
+* London 2022 Trip
+- Org Mode outline for my vacation, a learning exercise.
+- [[london.org][london.org]]
