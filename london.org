@@ -1,5 +1,5 @@
 #+TITLE: London Trip 2022
-#+AUTHOR: Rongstad
+#+AUTHOR: geremachek
 
 * Things to do:
 1. British Museum
@@ -22,6 +22,6 @@
 - English Breakfast
 - Shawarma
 
-* Oother:
+* Other:
 - Walks
 - Shopping
