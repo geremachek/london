@@ -1,4 +1,3 @@
-#+TITLE: London 2022 Trip
 #+AUTHOR: geremachek
 
 * London 2022 Trip
